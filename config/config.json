@@ -1,10 +1,8 @@
 {
-  "model_params": {
-    "alpha": 1.0
-  },
-  "data_path": "data/housing.csv",
-  "target_column": "MedHouseVal"
+  "C": 1.0,
+  "random_state": 42,
+  "test_size": 0.2
 }
 {
-  "C": 1.0
+  "another": "value"
 }
