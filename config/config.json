@@ -5,3 +5,6 @@
   "data_path": "data/housing.csv",
   "target_column": "MedHouseVal"
 }
+{
+  "C": 1.0
+}
