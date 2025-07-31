@@ -1,8 +1,5 @@
 {
   "C": 1.0,
-  "random_state": 42,
-  "test_size": 0.2
-}
-{
-  "another": "value"
+  "max_iter": 100,
+  "random_state": 42
 }
